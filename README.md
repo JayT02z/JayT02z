@@ -167,7 +167,7 @@ mindmap
   
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thịnh-đức-43b203371)
   [![Facebook](https://img.shields.io/badge/📱_Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cdt2004)
-  [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauthinh204@gmail.com)
 
 </div>
 
