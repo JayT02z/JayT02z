@@ -86,8 +86,8 @@ const jayT = {
 ## 🎯 Featured Project
 
 <div align="center">
-  <a href="https://github.com/Ho4Vit/Doctor-Appointment-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ho4Vit&repo=Doctor-Appointment-Booking-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
+  <a href="https://github.com/JayT02z/Doctor-Appointment-Booking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayT02z&repo=Doctor-Appointment-Booking-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
   </a>
 </div>
 
@@ -117,41 +117,6 @@ const jayT = {
 - Cross-browser compatibility and performance tuning
 
 </details>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JayT02z/JayT02z/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayT02z&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-## 💡 Current Focus
-
-```mermaid
-mindmap
-  root((JayT's Journey))
-    Frontend Mastery
-      React Ecosystem
-      Next.js 14
-      TypeScript
-    Healthcare Tech
-      Patient Experience
-      Medical Workflows
-      Data Privacy
-    Real-time Features
-      WebSocket
-      Live Updates
-      Chat Systems
-    Performance
-      Code Splitting
-      Lazy Loading
-      Optimization
-```
 
 ## 🤝 Let's Connect & Collaborate
 
