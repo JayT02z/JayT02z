@@ -92,6 +92,9 @@ const jayT = {
 ## 🎯 Featured Project
 
 <div align="center">
+  <a href="https://github.com/Kinn-max/web-booking-hotel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kinn-max&repo=web-booking-hotel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
+  </a>
   <a href="https://github.com/JayT02z/Doctor-Appointment-Booking-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayT02z&repo=Doctor-Appointment-Booking-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
   </a>
