@@ -71,12 +71,6 @@ const jayT = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Kinn-max/web-booking-hotel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kinn-max&repo=web-booking-hotel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-  </a>
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayT02z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayT02z&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
 </div>
@@ -109,8 +103,17 @@ const jayT = {
   </a>
 </div>
 
+### 🏨 Web Booking Hotel
+> A hotel booking system with city/hotel management, image gallery, and booking details
+
 ### 🩺 Doctor Appointment Booking System
 > A comprehensive healthcare platform revolutionizing patient-doctor interactions through seamless appointment booking
+
+### 📚 Courses English
+> An e-learning platform for English courses management
+>
+### 🐟 Web Ca Koi
+> A Web to booking for design and build a Koi fish pond
 
 <details>
 <summary><b>🔍 Project Deep Dive</b></summary>
