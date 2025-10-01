@@ -71,6 +71,12 @@ const jayT = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/Kinn-max/web-booking-hotel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kinn-max&repo=web-booking-hotel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayT02z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayT02z&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
 </div>
@@ -88,6 +94,18 @@ const jayT = {
 <div align="center">
   <a href="https://github.com/JayT02z/Doctor-Appointment-Booking-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayT02z&repo=Doctor-Appointment-Booking-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/JayT02z/WebCaKoi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayT02z&repo=WebCaKoi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Newbie1402/CoursesEnglish">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Newbie1402&repo=CoursesEnglish&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
   </a>
 </div>
 
