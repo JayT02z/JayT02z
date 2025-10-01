@@ -104,9 +104,6 @@ const jayT = {
   <a href="https://github.com/JayT02z/WebCaKoi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayT02z&repo=WebCaKoi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Newbie1402/CoursesEnglish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Newbie1402&repo=CoursesEnglish&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
   </a>
